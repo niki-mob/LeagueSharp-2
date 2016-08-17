@@ -1,0 +1,17 @@
+D:\GitHub\LeagueSharp\Urf\bin\Debug\Urf.exe.config
+D:\GitHub\LeagueSharp\Urf\bin\Debug\Urf.exe
+D:\GitHub\LeagueSharp\Urf\bin\Debug\Urf.pdb
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\SharpDX.Direct3D9.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\SharpDX.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.Data.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\clipper_library.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.Sandbox.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.Common.pdb
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.Data.pdb
+D:\GitHub\LeagueSharp\Urf\obj\x86\Debug\Urf.csprojResolveAssemblyReference.cache
+D:\GitHub\LeagueSharp\Urf\obj\x86\Debug\Urf.exe
+D:\GitHub\LeagueSharp\Urf\obj\x86\Debug\Urf.pdb
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.Sandbox.pdb
+D:\GitHub\LeagueSharp\Urf\bin\Debug\LeagueSharp.Common.dll

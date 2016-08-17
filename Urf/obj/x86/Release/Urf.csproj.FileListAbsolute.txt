@@ -1,0 +1,17 @@
+D:\GitHub\LeagueSharp\Urf\bin\Release\Urf.exe.config
+D:\GitHub\LeagueSharp\Urf\bin\Release\Urf.exe
+D:\GitHub\LeagueSharp\Urf\bin\Release\Urf.pdb
+D:\GitHub\LeagueSharp\Urf\bin\Release\LeagueSharp.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\PlaySharp.Toolkit.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\SharpDX.Direct3D9.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\SharpDX.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\log4net.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\Mono.Security.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\Mono.Cecil.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\Microsoft.VisualStudio.Threading.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\Microsoft.VisualStudio.Validation.dll
+D:\GitHub\LeagueSharp\Urf\bin\Release\PlaySharp.Toolkit.pdb
+D:\GitHub\LeagueSharp\Urf\obj\x86\Release\Urf.csprojResolveAssemblyReference.cache
+D:\GitHub\LeagueSharp\Urf\obj\x86\Release\Urf.exe
+D:\GitHub\LeagueSharp\Urf\obj\x86\Release\Urf.pdb
+D:\GitHub\LeagueSharp\Urf\bin\Release\Newtonsoft.Json.dll
